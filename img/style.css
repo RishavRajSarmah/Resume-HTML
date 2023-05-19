@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 700px;
+    height: 800px;
+    border: 2px solid black;
+    border-radius: 9px;
+    margin: 0px auto;
+}
+.leftbox{
+    height: 800px;
+    border: 2px solid black;
+    width: 210px;
+}
+
+.leftbox h4{
+    margin: 3px;
+    
+}
+
+
+
+#profile img {
+    width: 100px;
+    margin: 12px 52px;
+}
+
+.container h1{
+    font-size: 10px;
+    margin: 0px 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h-contact{
+    margin: 3px;
+}
+.h-skills{
+    margin: 3px;
+}
+.h-language{
+    margin: 3px;
+}
+.h-strengths{
+    margin: 3px;
+}
+.h-interests{
+    margin: 3px;
+}
+.h-activity{
+    margin: 3px;
+}
+.h-links{
+    margin: 3px;
+}
+.leftbox hr{
+    width: 200px;
+    margin: 3px;
+    background-color: blue;
+    height: 3px;
+}
+.leftbox{
+    background-color: #dcede7
+}
+.rightbox{
+    height: 800px;
+    width: 490px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
